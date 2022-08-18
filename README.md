@@ -4,7 +4,7 @@ In summary, SDumont have support for container softwares, like either with Docke
 
 # Containerization on SDumont
 
-Ok, we known that there are a lot of ways to use SDumont HPC, so why do I need to know another one, particularly, why should I use containers ?
+Ok, we know that there are a lot of ways to use SDumont HPC, so why do I need to know another one, particularly, why should I use containers ?
 
 Going directly to the point, for us (IDeepS project) and also the deep learning community, [NVIDIA NGC](https://catalog.ngc.nvidia.com/) catalog has a lot of ready to use docker containers images, for example, images that already have PyTorch or Tensorflow packages alongside many different other NVIDIA libraries carefully built to take advantage of their devices, like NVIDIA DALI, that improves the data throughput, and APEX, that enables training models with mixed precision.
 
